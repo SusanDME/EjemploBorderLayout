@@ -15,6 +15,6 @@ public class Ventana extends JFrame{
         add(etiqueta2, BorderLayout.CENTER);
         add(etiqueta3, BorderLayout.SOUTH);
         add(etiqueta4, BorderLayout.WEST);
-        add(etiqueta5, BorderLayout.EAST);
+        /*add(etiqueta5, BorderLayout.EAST);*/
     }
 }
